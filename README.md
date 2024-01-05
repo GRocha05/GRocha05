@@ -1,7 +1,7 @@
 # Welcome to my profile 👋
 
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning jquery and trying to develop an AI with python
+- 🌱 I’m currently taking some time to explore and learn some new things about which area I want to follow =)
 - 📫 How to reach me https://linktr.ee/gonga
 -   
 
